@@ -114,5 +114,10 @@
   <ItemGroup>
     <None Include="bnbAux.jpg" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="img\CajeroAutomatico %28Ejecución%29 - Microsoft Visual Studio.png" />
+    <Content Include="img\CajeroAutomatico - Microsoft Visual Studio.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

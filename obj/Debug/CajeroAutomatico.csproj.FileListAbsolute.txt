@@ -106,3 +106,15 @@ D:\CajeroAutomatico(con Diseño Final)\obj\Debug\CajeroAutomatico.csproj.Generat
 D:\CajeroAutomatico(con Diseño Final)\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
 D:\CajeroAutomatico(con Diseño Final)\obj\Debug\CajeroAutomatico.exe
 D:\CajeroAutomatico(con Diseño Final)\obj\Debug\CajeroAutomatico.pdb
+C:\Users\jgala\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\jgala\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\jgala\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.FrmLogin.resources
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.FrmOperaciones.resources
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\jgala\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
